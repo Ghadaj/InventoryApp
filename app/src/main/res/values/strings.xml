@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="item_name">Product Name</string>
+    <string name="item_price">Price:</string>
+    <string name="item_quantity">Quantity</string>
+    <string name="item_supplier">Supplier Phone Number</string>
+    <string name="sale">Sale</string>
+    <string name="order_supplier">Order From Supplier</string>
+    <string name="deleted_rows"> Rows Deleted</string>
+    <string name="deleted"> deleted</string>
+    <string name="add_product_name">You have to add the product name</string>
+    <string name="add_product_price">You have to add the product price</string>
+    <string name="add_product_quantity">You have to add the product quantity</string>
+    <string name="add_product_supplier">You have to add the product supplier</string>
+    <string name="add_product_image">You have to add the product image</string>
+    <string name="empty_state_view">There is no product, press the pluse sign to insert new product</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="delete_all_message">Are you sure you want to delete all products?</string>
+    <string name="delete_product_message">Are you sure you want to delete this product?</string>
+
+</resources>
